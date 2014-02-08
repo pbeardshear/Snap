@@ -2,5 +2,4 @@
 *.suo
 Snap/bin
 Snap/obj
-Snap/Properties
 Snap/*.resx
